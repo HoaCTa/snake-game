@@ -3,7 +3,9 @@ Snake Game
 
 
 ## Description
-This project was built during summer break because I wanted to practice my coding skills in Python. It is a classic snake game with black and white board and random food display. As the snake consumes the food, it grows in length.
+This project was developed during my summer break, driven by my desire to practice my coding skills in Python. It's a classic snake game featuring a simple black and white game board with randomly generated food items.
+
+Different classes are employed to separate concerns, enhancing the overall code architecture. This design choice facilitates better code maintainability and readability, making it easier to manage and extend the game's functionality in the future.
 
 
 ## Technologies
